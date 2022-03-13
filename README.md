@@ -25,4 +25,5 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 App icon in home screen and styled launch screen + login and logout features
+
 <img src='http://g.recordit.co/8m8RHeNlV1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
