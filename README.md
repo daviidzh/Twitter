@@ -24,4 +24,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/MV0wvtihZA.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+User sees app icon in home screen and styled launch screen | User can log in and log out
+<img src='http://g.recordit.co/8m8RHeNlV1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
