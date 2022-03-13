@@ -27,3 +27,7 @@ Here's a walkthrough of implemented user stories:
 App icon in home screen and styled launch screen + login and logout features
 
 <img src='http://g.recordit.co/8m8RHeNlV1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+User stays logged in across restarts, can pull to refresh, and can load past tweets indefinitely
+
+<img src='http://g.recordit.co/RZT3AKLp61.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
